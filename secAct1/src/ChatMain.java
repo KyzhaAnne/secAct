@@ -7,8 +7,8 @@ public class ChatMain {
         ChatSec frame1 = new ChatSec();
         ChatSec frame2 = new ChatSec();
 
-        frame1.setTitle("CHATMATE 1");
-        frame2.setTitle("CHATMATE 2");
+        frame1.setTitle("Chat 1");
+        frame2.setTitle("Chat 2");
         frame1.setSize(400, 230);
         frame2.setSize(400, 230);
 
@@ -17,8 +17,8 @@ public class ChatMain {
             public void actionPerformed(ActionEvent e) {
                 String chatbox = frame1.chatField.getText();
                 if (!chatbox.isEmpty()) {
-                    frame1.displayField.append("CHATMATE 1: " + chatbox + "\n"); // Display in Chat 1
-                    frame2.displayField.append("CHATMATE 1: " + chatbox + "\n"); // Display in Chat 2
+                    frame1.displayField.append("Chat 1: " + chatbox + "\n"); // Display in Chat 1
+                    frame2.displayField.append("Chat 1: " + chatbox + "\n"); // Display in Chat 2
                     frame1.chatField.setText(""); // Clear input field after sending
                 }
             }
@@ -29,8 +29,8 @@ public class ChatMain {
             public void actionPerformed(ActionEvent e) {
                 String chatbox = frame2.chatField.getText();
                 if (!chatbox.isEmpty()) {
-                    frame2.displayField.append("CHATMATE 2: " + chatbox + "\n"); // Display in Chat 2
-                    frame1.displayField.append("CHATMATE 2: " + chatbox + "\n"); // Display in Chat 1
+                    frame2.displayField.append("Chat 2: " + chatbox + "\n"); // Display in Chat 2
+                    frame1.displayField.append("Chat 2: " + chatbox + "\n"); // Display in Chat 1
                     frame2.chatField.setText(""); // Clear input field after sending
                 }
             }
