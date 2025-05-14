@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/secAct.iml" filepath="$PROJECT_DIR$/.idea/secAct.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/SecondGIT.iml" filepath="$PROJECT_DIR$/SecondGIT.iml" />
+>>>>>>> f80572a2a333fd85b6bb39dd5b36cb5b0e26f3b1
     </modules>
   </component>
 </project>
