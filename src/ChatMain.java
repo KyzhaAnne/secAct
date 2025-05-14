@@ -8,6 +8,7 @@ public class ChatMain {
         ChatSec frame2 = new ChatSec();
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 //<<<<<<< HEAD
         frame1.setTitle("CHATMATE 123");
         frame2.setTitle("CHATMATE 234");
@@ -19,6 +20,10 @@ public class ChatMain {
         frame1.setTitle("Silay");
         frame2.setTitle("tatlo ka talisay");
 >>>>>>> origin
+=======
+        frame1.setTitle("Ako");
+        frame2.setTitle("Kamo");
+>>>>>>> 71133d831d6add4a9eef90c0477de5351c170d54
         frame1.setSize(400, 230);
         frame2.setSize(400, 230);
 
