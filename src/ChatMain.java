@@ -10,8 +10,9 @@ public class ChatMain {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 //<<<<<<< HEAD
-        frame1.setTitle("CHATMATE kyzha");
+        frame1.setTitle("CHATMATE kyzha123");
         frame2.setTitle("CHATMATE 234");
 =======
         frame1.setTitle("Jolibee123");
@@ -29,6 +30,10 @@ public class ChatMain {
         frame1.setTitle("Ako//");
         frame2.setTitle("Kamo//");
 >>>>>>> 8ce3e74bb7751153cc23b8e6ef639ceb3a689689
+=======
+        frame1.setTitle("silay");
+        frame2.setTitle("Kamo");
+>>>>>>> 303d9fc26c31686d0e71bd63d2663b641ba5e9ba
         frame1.setSize(400, 230);
         frame2.setSize(400, 230);
 
