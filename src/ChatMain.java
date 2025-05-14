@@ -32,8 +32,12 @@ public class ChatMain {
 >>>>>>> 8ce3e74bb7751153cc23b8e6ef639ceb3a689689
 =======
         frame1.setTitle("silay");
+<<<<<<< HEAD
         frame2.setTitle("Kamo");
 >>>>>>> 303d9fc26c31686d0e71bd63d2663b641ba5e9ba
+=======
+        frame2.setTitle("Emmanuel CLyde FLores");
+>>>>>>> 4fe4eaffd7872ba18dfa74867aee0bea151f9cff
         frame1.setSize(400, 230);
         frame2.setSize(400, 230);
 
