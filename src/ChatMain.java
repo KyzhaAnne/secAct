@@ -9,8 +9,8 @@ public class ChatMain {
 
 <<<<<<< HEAD
 //<<<<<<< HEAD
-        frame1.setTitle("CHATMATE 1");
-        frame2.setTitle("CHATMATE 2");
+        frame1.setTitle("CHATMATE 123");
+        frame2.setTitle("CHATMATE 234");
 =======
         frame1.setTitle("Jolibee123");
         frame2.setTitle("McDonald123");
