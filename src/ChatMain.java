@@ -12,7 +12,7 @@ public class ChatMain {
 <<<<<<< HEAD
 <<<<<<< HEAD
 //<<<<<<< HEAD
-        frame1.setTitle("CHATMATE kyzha123");
+        frame1.setTitle("CHATMATE NEW KYZHA ANNE TORRES");
         frame2.setTitle("CHATMATE 234");
 =======
         frame1.setTitle("Jolibee123");
