@@ -7,13 +7,13 @@ public class ChatMain {
         ChatSec frame1 = new ChatSec();
         ChatSec frame2 = new ChatSec();
 
-<<<<<<< HEAD
+//<<<<<<< HEAD
         frame1.setTitle("CHATMATE 1");
         frame2.setTitle("CHATMATE 2");
 =======
-        frame1.setTitle("Jolibee");
-        frame2.setTitle("McDonald");
->>>>>>> f80572a2a333fd85b6bb39dd5b36cb5b0e26f3b1
+        frame1.setTitle("Jolibee123");
+        frame2.setTitle("McDonald123");
+//>>>>>>> f80572a2a333fd85b6bb39dd5b36cb5b0e26f3b1
         frame1.setSize(400, 230);
         frame2.setSize(400, 230);
 
